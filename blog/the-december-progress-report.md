@@ -1,6 +1,6 @@
 ---
 title: The December Progress Report: How to Show Your Supervisor Real Dissertation Progress
-description: How to write a dissertation progress report your supervisor trusts: report decisions, not page counts; add a dated action plan and reflect honestly.
+description: How to write a dissertation progress report your supervisor trusts: report decisions, not page counts, add a dated action plan and reflect honestly.
 date: 2026-11-20
 image: ![The December Progress Report: How to Show Your Supervisor Real Dissertation Progress](https://i.ibb.co/fdstN1c7/December-Dissertation-Progress-Report.jpg)
 author:
